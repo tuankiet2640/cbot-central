@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7716b93d-7a88-4e62-b142-19f224c276a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cbot-central.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testfastAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/testfastAPI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
       <updated>1727272602581</updated>
       <workItem from="1727272603644" duration="158000" />
       <workItem from="1727272769772" duration="72000" />
-      <workItem from="1727272874340" duration="1654000" />
+      <workItem from="1727272874340" duration="1310000" />
     </task>
     <servers />
   </component>
